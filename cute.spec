@@ -1,17 +1,19 @@
 Summary:	CUTE User-friendly Text Editor
 Summary(pl):	CUTE - przyjazny dla u¿ytkownika edytor tekstu
 Name:		cute
-Version:	0.2.7
-Release:	3
+Version:	0.2.9
+Release:	1
 License:	GPL
 Group:		X11/Development/Tools
-Source0:	http://dl.sourceforge.net/cute/%{name}-%{version}-1.tar.gz
-# Source0-md5:	4b7d088781ecb42944554e3c051af78c
+Source0:	http://dl.sourceforge.net/cute/%{name}-%{version}.tar.gz
+# Source0-md5:	08da2882c51f2199ac0812a3500ddec6
+URL:		http://cute.sourceforge.net/
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1.6.1
 BuildRequires:	python-devel
 BuildRequires:	qscintilla-devel
 BuildRequires:	sed >= 4.0
+BuildRequires:	qmake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
