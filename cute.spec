@@ -24,7 +24,7 @@ projects.
 %description -l pl
 CUTE to oparty na Qt i Scintilli edytor tekstu, który mo¿na ³atwo
 rozszerzaæ przy u¿yciu Pythona. G³ównym jego celem jest bycie
-przyjaznym dla u¿ytkownia edytorem kodu ¼ród³owego ze wspólnym
+przyjaznym dla u¿ytkownika edytorem kodu ¼ród³owego ze wspólnym
 graficznym interfejsem u¿ytkownika. Edytor obs³uguje pod¶wietlanie
 sk³adni dla wielu jêzyków, pliki znaczników oraz projekty.
 
