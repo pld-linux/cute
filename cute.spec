@@ -1,5 +1,5 @@
-#
 Summary:	CUTE User-friendly Text Editor
+Summary(pl):	CUTE - przyjazny dla u¿ytkownika edytor tekstu
 Name:		cute
 Version:	0.2.7
 Release:	1
@@ -11,14 +11,22 @@ BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1.6.1
 BuildRequires:	python-devel
 BuildRequires:	qscintilla-devel
+BuildRequires:	sed >= 4.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 CUTE is a Qt and Scintilla based text editor which can be easily
-extended using Python It 's main purpose is to be an user-friendly
+extended using Python. Its main purpose is to be an user-friendly
 source code editor with a common graphical user interface. The editor
 supports syntax highlighting for many languages, tags files and
 projects.
+
+%description -l pl
+CUTE to oparty na Qt i Scintilli edytor tekstu, który mo¿na ³atwo
+rozszerzaæ przy u¿yciu Pythona. G³ównym jego celem jest bycie
+przyjaznym dla u¿ytkownia edytorem kodu ¼ród³owego ze wspólnym
+graficznym interfejsem u¿ytkownika. Edytor obs³uguje pod¶wietlanie
+sk³adni dla wielu jêzyków, pliki znaczników oraz projekty.
 
 %prep
 %setup -q
