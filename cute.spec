@@ -2,7 +2,7 @@ Summary:	CUTE User-friendly Text Editor
 Summary(pl):	CUTE - przyjazny dla u¿ytkownika edytor tekstu
 Name:		cute
 Version:	0.2.9
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	http://dl.sourceforge.net/cute/%{name}-%{version}.tar.gz
