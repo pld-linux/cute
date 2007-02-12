@@ -1,5 +1,5 @@
 Summary:	CUTE User-friendly Text Editor
-Summary(pl.UTF-8):   CUTE - przyjazny dla użytkownika edytor tekstu
+Summary(pl.UTF-8):	CUTE - przyjazny dla użytkownika edytor tekstu
 Name:		cute
 Version:	0.2.9
 Release:	3
