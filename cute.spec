@@ -1,5 +1,5 @@
 Summary:	CUTE User-friendly Text Editor
-Summary(pl):	CUTE - przyjazny dla uøytkownika edytor tekstu
+Summary(pl.UTF-8):   CUTE - przyjazny dla u≈ºytkownika edytor tekstu
 Name:		cute
 Version:	0.2.9
 Release:	3
@@ -23,12 +23,12 @@ source code editor with a common graphical user interface. The editor
 supports syntax highlighting for many languages, tags files and
 projects.
 
-%description -l pl
-CUTE to oparty na Qt i Scintilli edytor tekstu, ktÛry moøna ≥atwo
-rozszerzaÊ przy uøyciu Pythona. G≥Ûwnym jego celem jest bycie
-przyjaznym dla uøytkownika edytorem kodu ºrÛd≥owego ze wspÛlnym
-graficznym interfejsem uøytkownika. Edytor obs≥uguje pod∂wietlanie
-sk≥adni dla wielu jÍzykÛw, pliki znacznikÛw oraz projekty.
+%description -l pl.UTF-8
+CUTE to oparty na Qt i Scintilli edytor tekstu, kt√≥ry mo≈ºna ≈Çatwo
+rozszerzaƒá przy u≈ºyciu Pythona. G≈Ç√≥wnym jego celem jest bycie
+przyjaznym dla u≈ºytkownika edytorem kodu ≈∫r√≥d≈Çowego ze wsp√≥lnym
+graficznym interfejsem u≈ºytkownika. Edytor obs≈Çuguje pod≈õwietlanie
+sk≈Çadni dla wielu jƒôzyk√≥w, pliki znacznik√≥w oraz projekty.
 
 %prep
 %setup -q
